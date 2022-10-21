@@ -1,0 +1,6 @@
+- Java Activity - Irnanda Rizka Fadhillah
+- Main Menu - Irnanda Rizka Fadhullah
+- Layout Program - Rio Rian Rivanka
+- Java Model Recyclerview - Rio Rian Rivanka
+- Adapter Recyclerview - Devanda Radya Ananta
+- Layout Recyclerview - Devanda Radya Ananta
